@@ -1,0 +1,11 @@
+clouds:
+  mycloud:
+    region_name: RegionOne
+    endpoint_type: 'internal'
+    auth:
+      username: 'admin'
+      password: 'admin'
+#      project_name: 'admin'
+      auth_url: 'http://172.18.222.190:35357/v3'
+      domain_name: 'default'
+      tenant_name: 'admin'
